@@ -6,11 +6,23 @@ Frontend Developer
 
 Frontend developer with the ambition to move forward and to be the best software developer.
 
-* 🌍  I'm based in Mecca
-* ✉️  You can contact me at [rayyan3353@gmail.com](mailto:rayyan3353@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I WON'T STOP UNITL I REACH THE TOP
+👋 Hello, I'm Rayyan
+
+🚀 Frontend Web Developer | JavaScript Enthusiast
+
+💻 Skilled in JavaScript, HTML, CSS, and React
+
+🌟 Passionate about creating captivating user interfaces and interactive web applications
+
+🎓 Constantly learning and exploring new frontend technologies to enhance my skills
+
+🔧 Experienced in building responsive and performant web experiences
+
+🌐 Check out my profile to see my front-end projects
+
+📫 Let's connect: [LinkedIn Profile](https://www.linkedin.com/in/rayyan-munassar-0815ba260/) | [Twitter](https://twitter.com/rayyan_Munassar)
+
+✨ Open to new opportunities and collaborations!
 
 ### Skills
 
