@@ -20,8 +20,6 @@ Frontend developer with the ambition to move forward and to be the best software
 
 🌐 Check out my profile to see my front-end projects
 
-📫 Let's connect: [LinkedIn Profile](https://www.linkedin.com/in/rayyan-munassar-0815ba260/) | [Twitter](https://twitter.com/rayyan_Munassar)
-
 ✨ Open to new opportunities and collaborations!
 
 ### Skills
