@@ -1,40 +1,42 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rayyan
-==============================================================================================================================
 
-Frontend Developer
-------------------
+---
 
-Frontend developer with the ambition to move forward and to be the best software developer.
+![Data Science GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-👋 Hello, I'm Rayyan
+### Hi! 👋 I'm Rayyan
 
-🚀 Frontend Web Developer | JavaScript Enthusiast
+---
 
-💻 Skilled in JavaScript, C++, and React
+**Data Science Enthusiast | Machine Learning Aspirant**
 
-🌟 Passionate about creating captivating user interfaces and interactive web applications
+Passionate about unraveling insights from data and aspiring Data Scientist. I am currently a dedicated student at the University of the People, immersing myself in the world of Data Science and honing my skills in machine learning.
 
-🎓 Constantly learning and exploring new frontend technologies to enhance my skills
+**🚀 What I Do:**
+- Actively participate in Kaggle competitions, consistently achieving high rankings on the leaderboard.
+- Develop and implement machine learning modules, showcasing a hands-on approach to real-world problem-solving.
+- Collaborate with fellow students, helping them navigate complex machine-learning topics and providing support in statistics.
 
-🔧 Experienced in building responsive and performant web experiences
+**🎓 Academic Journey:**
+- Studying Data Science at the University of the People.
+- Keen interest in mathematical foundations and their applications in data analysis.
 
-🌐 Check out my profile to see my front-end projects
+**💡 Key Skills:**
+- Python for Data Science
+- Machine Learning Algorithms
+- Statistical Analysis
+- Data Visualization
 
-✨ Open to new opportunities and collaborations!
+**🌟 Achievements:**
+- Contributed to a collaborative and learning-oriented environment.
+- Guided college classmates in mastering machine learning concepts.
 
-### Skills
+**🔗 Connect with Me:**
+- [LinkedIn](https://www.linkedin.com/in/rayyan-munassar-0815ba260)
+- [GitHub](https://www.github.com/Rian1munassar)
+- [Twitter](https://www.twitter.com/rayyan_munassar)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
+**🌐 Explore my profile to see my Data Science projects and contributions.**
 
+**✨ Open to new opportunities and collaborations in the exciting field of Data Science!**
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Rian1munassar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rayyan-munassar-0815ba260" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/rayyan_munassar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+---
