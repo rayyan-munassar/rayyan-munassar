@@ -2,7 +2,7 @@
 
 ![Data Science GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-### مرحبًا! 👋 أنا رايان
+### مرحبًا! 👋 إسمي ريان
 
 ---
 
@@ -31,8 +31,11 @@
 - المساهمة في مشاريع الفريق من خلال تحليلات ثاقبة وتوصيات عملية.
 
 **🔗 تواصل معي:**
-- [LinkedIn](https://www.linkedin.com/in/rayyan-munassar-0815ba260)
+- [Phone](0556672674)
+- [Gmail](rayyan3353@gmail.com)
+- [LinkedIn](www.linkedin.com/in/rayyan-alhaidary-0815ba260)
 - [GitHub](https://www.github.com/Rian1munassar)
+  
 
 
 ---
