@@ -31,8 +31,8 @@
 - المساهمة في مشاريع الفريق من خلال تحليلات ثاقبة وتوصيات عملية.
 
 **🔗 تواصل معي:**
-- [Phone](0556672674)
-- [Gmail](rayyan3353@gmail.com)
+- Phone: 0556672674
+- Gmail: rayyan3353@gmail.com
 - [LinkedIn](www.linkedin.com/in/rayyan-alhaidary-0815ba260)
 - [GitHub](https://www.github.com/Rian1munassar)
   
