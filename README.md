@@ -1,4 +1,3 @@
-
 ---
 
 ![Data Science GIF](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
@@ -7,36 +6,37 @@
 
 ---
 
-**Data Science Enthusiast | Machine Learning Aspirant**
+**Data Analysis Enthusiast | Data Science Student**
 
-Passionate about unraveling insights from data and aspiring Data Scientist. I am currently a dedicated student at the University of the People, immersing myself in the world of Data Science and honing my skills in machine learning.
+I am passionate about uncovering valuable insights from data and enhancing decision-making through effective analysis. As a dedicated student at the University of the People, I am deeply engaged in mastering data analysis techniques and exploring their real-world applications.
 
 **🚀 What I Do:**
-- Actively participate in Kaggle competitions, consistently achieving high rankings on the leaderboard.
-- Develop and implement machine learning modules, showcasing a hands-on approach to real-world problem-solving.
-- Collaborate with fellow students, helping them navigate complex machine-learning topics and providing support in statistics.
+- Conduct thorough data analysis to extract meaningful patterns and trends.
+- Create detailed data visualizations to present insights clearly and effectively.
+- Utilize various statistical methods to ensure accuracy and reliability in analysis.
+- Collaborate with peers on data-driven projects, providing analytical support and insights.
 
 **🎓 Academic Journey:**
-- Studying Data Science at the University of the People.
-- Keen interest in mathematical foundations and their applications in data analysis.
+- Pursuing a degree in Data Science at the University of the People.
+- Focused on developing strong skills in data analysis and visualization.
 
 **💡 Key Skills:**
-- Python for Data Science
-- Machine Learning Algorithms
+- Python for Data Analysis
+- Data Cleaning and Preparation
 - Statistical Analysis
-- Data Visualization
+- Data Visualization Tools
 
 **🌟 Achievements:**
-- Contributed to a collaborative and learning-oriented environment.
-- Guided college classmates in mastering machine learning concepts.
+- Successfully completed numerous data analysis projects, demonstrating a strong ability to interpret and communicate data findings.
+- Contributed to team projects with insightful analysis and actionable recommendations.
+- I have been nominated to the Honor Roll for outstanding academic performance.
 
 **🔗 Connect with Me:**
 - [LinkedIn](https://www.linkedin.com/in/rayyan-munassar-0815ba260)
 - [GitHub](https://www.github.com/Rian1munassar)
-- [Twitter](https://www.twitter.com/rayyan_munassar)
 
-**🌐 Explore my profile to see my Data Science projects and contributions.**
+**🌐 Explore my profile to see my Data Analysis projects and contributions.**
 
-**✨ Open to new opportunities and collaborations in the exciting field of Data Science!**
+**✨ Open to new opportunities and collaborations in the field of Data Analysis!**
 
 ---
