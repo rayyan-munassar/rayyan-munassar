@@ -34,7 +34,6 @@
 **🔗 تواصل معي:**
 - Phone: 0556672674
 - Gmail: rayyan3353@gmail.com
-- [GitHub](https://www.github.com/Rian1munassar)
   
 
 
